@@ -1,0 +1,49 @@
+* {
+  font-family: ir, Tahoma, sans-serif;
+}
+.headercontiner{
+  position: relative;
+  text-align: center;
+  color: goldenrod;
+  margin: 5vh auto;
+  padding: auto;
+  font-size: x-large;
+  font-family: Arial,sans-serif;
+}
+
+.entergamecenter{
+  position: relative;
+  text-align: center;
+  color: goldenrod;
+  border: 7.5px  solid goldenrod;
+  margin: 10vh auto;
+  width: fit-content;
+  height: auto;
+  padding: 20px;
+  border-radius: 35%;
+  font-size: x-large;
+}
+.onlineshop{
+  position: relative;
+  text-align: center;
+  color: goldenrod;
+  border: 7.5px  solid goldenrod;
+  margin: 15vh auto;
+  width: fit-content;
+  height: auto;
+  padding: 20px;
+  border-radius: 35%;
+  font-size: x-large;
+}
+.container{
+  position: relative;
+  margin: 15vh auto;
+  width: auto;
+  height: auto;
+  display: inline;
+}
+.myicon{
+  position: relative;
+  padding: auto;
+  margin: auto;
+}
